@@ -1,9 +1,3 @@
-# analyzing the Wisconsin Dells data using the 
-# apriori program from Peter Harrington (2012)
-
-# Harrington, P. (2012). Machine learning in action. Shelter Island, N.Y.: Manning. 
-# open-source code from:  www.manning.com/MachineLearninginAction  (see Chapter 11)
-
 # let's make our programs compatible with Python 3.0/1/2/3
 from __future__ import division, print_function
 from future_builtins import ascii, filter, hex, map, oct, zip
